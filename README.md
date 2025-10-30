@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,80:000000&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 <div align="center">
-  <h1 style="font-family: Impact, Charcoal, sans-serif; font-size: 7em; font-weight: bold; background: -webkit-linear-gradient(90deg, #E34C26 60%, #000000); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px #00000033;">H. WON JUNE</h1>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:000000&height=100&section=header&text=H.%20WON%20JUNE&fontSize=50&fontColor=FFFFFF" width="100%" height="auto"/>
 </div>
 
 <div style="border: 2px solid #E34C26; border-radius: 10px; padding: 20px; background-color: #222222; text-align: center;">
@@ -12,7 +12,7 @@
 
 <h3 style="font-family: Impact, Charcoal, sans-serif; color: #E34C26; border-bottom: 2px solid #E34C26; padding-bottom: 5px;">🚀 기술</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 <h3 style="font-family: Impact, Charcoal, sans-serif; color: #E34C26; border-bottom: 2px solid #E34C26; padding-bottom: 5px;">📂 프로젝트</h3>
@@ -32,11 +32,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/leagueoflegends/E34C26" width="150px;" alt="League of Legends"/><br />
+      <img src="https://cdn.simpleicons.org/leagueoflegends/E34C26" width="150px;" alt="리그오브레전드"/><br />
       <sub><b>리그오브레전드</b></sub>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccerball.svg" width="100px;" alt="Soccer"/><br />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccerball.svg" width="100px;" alt="축구"/><br />
       <sub><b>축구</b></sub>
     </td>
   </tr>
