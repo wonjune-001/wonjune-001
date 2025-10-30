@@ -36,7 +36,7 @@
       <sub><b>리그오브레전드</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/soccer/E34C26" width="100px;" alt="Soccer"/><br />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccerball.svg" width="100px;" alt="Soccer"/><br />
       <sub><b>축구</b></sub>
     </td>
   </tr>
