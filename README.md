@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,80:000000&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+<img src="https://capsule-render.vercel.app/api?type=twinkling&color=0:E34C26,80:000000&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:000000&height=100&section=header&text=H.%20WON%20JUNE&fontSize=50&fontColor=FFFFFF" width="100%" height="auto"/>
@@ -12,10 +12,7 @@
 
 ### 🚀 기술
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js" />
 </p>
 
 ### 📂 프로젝트
@@ -23,9 +20,9 @@
 - **[Simple 2D Game]**: HTML, CSS, JavaScript를 이용한 간단한 2D 게임입니다.
   게임을 실행하려면, `index.html` 파일을 웹 브라우저에서 직접 여세요.
 
-### 📊 GitHub 기여도
+### 📊 종합 통계
 <p align="center">
-  <img src="https://ghchart.rshah.org/wonjune-001" />
+  <img src="https://metrics.lecoq.io/wonjune-001" />
 </p>
 
 ### 😄 관심사 및 취미
