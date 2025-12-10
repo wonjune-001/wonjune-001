@@ -18,7 +18,15 @@
 ### 📂 프로젝트
 - **[웹프로그래밍 포프폴리오](LINK_TO_YOUR_PROJECT)**: HTML, CSS, JavaScript를 이용한 개인 포트폴리오 웹사이트입니다.
 - **[Simple 2D Game]**: HTML, CSS, JavaScript를 이용한 간단한 2D 게임입니다.
-  게임을 실행하려면, `index.html` 파일을 웹 브라우저에서 직접 여세요.
+  
+  **🎮 게임 실행 방법**
+  1. 이 저장소를 로컬 컴퓨터에 클론하거나 다운로드합니다.
+  2. 다운로드된 폴더로 이동합니다.
+  3. 웹 브라우저(예: Chrome, Firefox)를 열고, `index.html` 파일을 브라우저 창으로 드래그 앤 드롭하거나, 브라우저에서 직접 `index.html` 파일을 엽니다.
+  4. 게임을 즐겨보세요!
+
+  <!-- 게임 플레이 GIF를 여기에 추가하세요! (예시: ![게임 플레이 GIF](assets/gameplay.gif)) -->
+
 
 ### 📊 종합 통계
 <p align="center">
