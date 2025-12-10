@@ -17,6 +17,8 @@
 
 <h3 style="font-family: Impact, Charcoal, sans-serif; color: #E34C26; border-bottom: 2px solid #E34C26; padding-bottom: 5px;">📂 프로젝트</h3>
 - **[웹프로그래밍 포프폴리오](LINK_TO_YOUR_PROJECT)**: HTML, CSS, JavaScript를 이용한 개인 포트폴리오 웹사이트입니다.
+- **[Simple 2D Game]**: HTML, CSS, JavaScript를 이용한 간단한 2D 게임입니다.
+  게임을 실행하려면, `index.html` 파일을 웹 브라우저에서 직접 여세요.
 
 <h3 style="font-family: Impact, Charcoal, sans-serif; color: #E34C26; border-bottom: 2px solid #E34C26; padding-bottom: 5px;">📊 GitHub 통계</h3>
 <p align="center">
