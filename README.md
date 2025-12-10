@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=twinkling&color=0:E34C26,80:000000&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,80:000000&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:000000&height=100&section=header&text=H.%20WON%20JUNE&fontSize=50&fontColor=FFFFFF" width="100%" height="auto"/>
