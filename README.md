@@ -23,14 +23,9 @@
 - **[Simple 2D Game]**: HTML, CSS, JavaScript를 이용한 간단한 2D 게임입니다.
   게임을 실행하려면, `index.html` 파일을 웹 브라우저에서 직접 여세요.
 
-### 📊 GitHub 통계
+### 📊 GitHub 기여도
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=wonjune-001&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjune-001&layout=compact&theme=radical" />
-  </a>
+  <img src="https://ghchart.rshah.org/wonjune-001" />
 </p>
 
 ### 😄 관심사 및 취미
